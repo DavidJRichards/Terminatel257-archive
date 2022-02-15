@@ -36,7 +36,7 @@ I have the neccessary key strokes printed on a label as a reminder.
 
 
 
-## Internal view 
+## Internal view
 
 ![cpu-board](./images/cpu-board.jpg)
 
@@ -61,5 +61,25 @@ Programmable Serial Port
 64k External Data Memory Spac
 ```
 
+## code disassembly
+
+the d52 disassembler created these control and source listing files, more work is needed to make the control file properly represent the software structure.
+
+[D52 8051/8052 Disassembler](https://www.bipom.com/dis51.php)
+
+[control](./firmware/4853.ctl)
+
+Best viewed with tab setting of >= 8 spaces.
+[dissasembly](./firmware/4853.d52)
+
+## other information
+
 This thread has descriptions of some of the chips: [twitter](https://twitter.com/Foone/status/1226394705040007169)
+
+https://heyrick.eu/blog/index.php?diary=20180815&keitai=0
+
+https://www.jelora.fr/post/2017/08/07/Teardown-Demontage-Minitel-1-Telic-Alcatel.html
+
+https://www.jelora.fr/post/2017/08/01/Teardown-Demontage-d-un-Minitel-2.html
+
 
