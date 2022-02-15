@@ -12,13 +12,10 @@ Information on the Terminatel 257 Prestel terminal
 
 ## Prestel
 
-Showing the Terminatel connected to Telstar using ESP32 wifi modem - note external 75 to 1200 baud rate converser in trasmit line.
-
+Showing the Terminatel connected to Telstar using ESP32 wifi modem.
 See links for details:
 
-[SimpleSoftwareSerial](https://github.com/DavidJRichards/SimpleSoftwareSerial)
-
-[Zimodem](https://github.com/DavidJRichards/)
+[Zimodem](https://github.com/DavidJRichards/Zimodem)
 
 ![telstar](./images/telstar.jpg)
 
